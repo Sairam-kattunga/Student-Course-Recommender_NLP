@@ -1,0 +1,39 @@
+
+[
+    {
+        "Course": "Python Basics",
+        "Description": "Learn the basics of Python including syntax, variables, and data types."
+    },
+    {
+        "Course": "Advanced Java",
+        "Description": "Deep dive into Java programming concepts like OOPs and multithreading."
+    },
+    {
+        "Course": "Data Science",
+        "Description": "Covers data preprocessing, visualization, and statistical analysis."
+    },
+    {
+        "Course": "Web Development",
+        "Description": "Frontend and backend web development with HTML, CSS, JS, and Django."
+    },
+    {
+        "Course": "Machine Learning",
+        "Description": "Build and train models using regression, classification and clustering."
+    },
+    {
+        "Course": "Deep Learning",
+        "Description": "Understand neural networks, CNNs, and backpropagation."
+    },
+    {
+        "Course": "Cybersecurity Fundamentals",
+        "Description": "Intro to network security, encryption, and ethical hacking."
+    },
+    {
+        "Course": "Cloud Computing",
+        "Description": "Learn about AWS, Azure, and cloud deployment models."
+    },
+    {
+        "Course": "DevOps Essentials",
+        "Description": "Continuous integration, Docker, and Kubernetes basics."
+    }
+]
